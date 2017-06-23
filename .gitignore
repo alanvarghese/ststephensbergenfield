@@ -8,3 +8,9 @@ war/WEB-INF/deploy/*
 *.symbolMap
 
 war/ststephensbergenfield/ststephensbergenfield.nocache.js
+
+*.prefs
+
+*.prefs
+
+war/ststephensbergenfield/ststephensbergenfield.nocache.js
