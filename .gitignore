@@ -1,13 +1,16 @@
 
-gwt-unitCache/gwt-unitCache-b43fe07841b100c5f8cde7d5e855fc294f6a56f4-0000014C256D0E3A
+gwt-unitCache/*
 
-war/ststephensbergenfield/0C851F542DF7FEB95E8A2F11E634D258.cache.html
+war/ststephensbergenfield/*.cache.html
 
-war/ststephensbergenfield/1114520EC35116787CCDEC3A0CAEF93A.cache.html
+war/WEB-INF/deploy/*
 
-war/ststephensbergenfield/1114520EC35116787CCDEC3A0CAEF93A.cache.html
-
-war/ststephensbergenfield/66460C4F20C926AB3B56C33E2DFD709C.cache.html
+*.symbolMap
 
 war/ststephensbergenfield/ststephensbergenfield.nocache.js
 
+*.prefs
+
+*.prefs
+
+war/ststephensbergenfield/ststephensbergenfield.nocache.js
