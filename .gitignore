@@ -1,26 +1,17 @@
+.settings/
 
-gwt-unitCache/*
+gwt-unitCache/
 
-war/ststephensbergenfield/*.cache.html
-
-war/WEB-INF/deploy/*
+war/WEB-INF/deploy/
 
 *.symbolMap
 
-war/ststephensbergenfield/ststephensbergenfield.nocache.js
-
 *.prefs
-
-*.prefs
-
-war/ststephensbergenfield/ststephensbergenfield.nocache.js
 
 .classpath
 
 .project
 
-.settings/com.google.appengine.eclipse.core.prefs
+war/ststephensbergenfield/*.cache.html
 
-.settings/com.google.gdt.eclipse.core.prefs
-
-*.prefs
+war/ststephensbergenfield/*.nocache.js
