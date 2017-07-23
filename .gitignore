@@ -1,3 +1,4 @@
+.settings/
 
 gwt-unitCache/*
 
@@ -14,3 +15,7 @@ war/ststephensbergenfield/ststephensbergenfield.nocache.js
 *.prefs
 
 war/ststephensbergenfield/ststephensbergenfield.nocache.js
+
+.project
+
+.classpath
