@@ -15,3 +15,9 @@ war/WEB-INF/deploy/
 war/ststephensbergenfield/*.cache.html
 
 war/ststephensbergenfield/*.nocache.js
+
+*.class
+
+war/WEB-INF/classes/com/lemmanet/client/*.class
+
+WebContent/
