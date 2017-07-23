@@ -1,3 +1,4 @@
+.settings/
 
 gwt-unitCache/*
 
@@ -15,12 +16,6 @@ war/ststephensbergenfield/ststephensbergenfield.nocache.js
 
 war/ststephensbergenfield/ststephensbergenfield.nocache.js
 
-.classpath
-
 .project
 
-.settings/com.google.appengine.eclipse.core.prefs
-
-.settings/com.google.gdt.eclipse.core.prefs
-
-*.prefs
+.classpath
