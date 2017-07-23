@@ -1,3 +1,2 @@
 # Module ststephensbergenfield
 # RPC service class, partial path of RPC policy file
-com.lemmanet.client.GreetingService, 71F4035576863154353B98E696D6C82A.gwt.rpc
