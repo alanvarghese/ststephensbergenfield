@@ -19,19 +19,3 @@ war/ststephensbergenfield/ststephensbergenfield.nocache.js
 .project
 
 .classpath
-
-src/com/lemmanet/server/QuizSocketServer.java
-
-src/com/lemmanet/server/StartupServlet.java
-
-*.class
-
-war/WEB-INF/classes/com/lemmanet/client/GreetingService.class
-
-war/WEB-INF/classes/com/lemmanet/client/GreetingServiceAsync.class
-
-war/WEB-INF/classes/com/lemmanet/client/Ststephensbergenfield.class
-
-war/WEB-INF/classes/com/lemmanet/client/GreetingService.class
-
-*.class
