@@ -1,23 +1,37 @@
 .settings/
 
-gwt-unitCache/
-
-war/WEB-INF/deploy/
-
-*.symbolMap
-
-*.prefs
-
-.classpath
-
-.project
+gwt-unitCache/*
 
 war/ststephensbergenfield/*.cache.html
 
-war/ststephensbergenfield/*.nocache.js
+war/WEB-INF/deploy/*
+
+*.symbolMap
+
+war/ststephensbergenfield/ststephensbergenfield.nocache.js
+
+*.prefs
+
+*.prefs
+
+war/ststephensbergenfield/ststephensbergenfield.nocache.js
+
+.project
+
+.classpath
+
+src/com/lemmanet/server/QuizSocketServer.java
+
+src/com/lemmanet/server/StartupServlet.java
 
 *.class
 
-war/WEB-INF/classes/com/lemmanet/client/*.class
+war/WEB-INF/classes/com/lemmanet/client/GreetingService.class
 
-WebContent/
+war/WEB-INF/classes/com/lemmanet/client/GreetingServiceAsync.class
+
+war/WEB-INF/classes/com/lemmanet/client/Ststephensbergenfield.class
+
+war/WEB-INF/classes/com/lemmanet/client/GreetingService.class
+
+*.class
