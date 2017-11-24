@@ -29,6 +29,7 @@ $(function(){
 		var carousel_items_visible = 6;
 		var carousel_scroll = 1;
 </script>
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
 <script>
 $(document).ready(function(){
 setTimeout(scrollList,2000);
@@ -38,10 +39,16 @@ setTimeout(scrollList,2000);
 </script>
 
 
-<!-- Start WOWSlider.com HEAD section -->
-<link rel="stylesheet" type="text/css" href="engine3/style.css" />
-<script type="text/javascript" src="engine3/jquery.js"></script>
-<!-- End WOWSlider.com HEAD section -->
+
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<!--script type="text/javascript" src="engine1/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
 
 <body>
 
@@ -165,7 +172,21 @@ p.ex1 {
 
 </style>
 
-
+<div id="wowslider-container0">
+	<div class="ws_images"><ul>
+		<li><img src="data0/images/img_2790.jpg" alt="Sunday School Area Competition: Group Song Winners: Aleena, Andrew, Angelle, Julua" title="Sunday School Area Competition: Group Song Winners: Aleena, Andrew, Angelle, Julua" id="wows0_0"/></li>
+		<li><a href="http://wowslider.net"><img src="data0/images/img20171015wa0000.jpg" alt="jquery slider" title="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017" id="wows0_1"/></a></li>
+		<li><img src="data0/images/img_2823.jpg" alt="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017" title="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017" id="wows0_2"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Sunday School Area Competition: Group Song Winners: Aleena, Andrew, Angelle, Julua"><span><img src="data0/tooltips/img_2790.jpg" alt="Sunday School Area Competition: Group Song Winners: Aleena, Andrew, Angelle, Julua"/>1</span></a>
+		<a href="#" title="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017"><span><img src="data0/tooltips/img20171015wa0000.jpg" alt="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017"/>2</span></a>
+		<a href="#" title="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017"><span><img src="data0/tooltips/img_2823.jpg" alt="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017"/>3</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wow slider</a> by WOWSlider.com v8.7.1m</div>
+	<div class="ws_shadow"></div>
+	</div>
+	<script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
 <div class="container-fluid">
   <p class="ex1">Monthly Prayer</p>
 
@@ -237,39 +258,8 @@ p.ex1 {
 </div>
 <br>
 <br>
-<div class="container-fluid">
-  <!-- Start WOWSlider.com BODY section -->
-
-  <p class="ex1">Achievements:</p>
-
-  <br>
 
 
-          <h4>- Sunday School Area Competition Group Song Winners 2017</h4>
-          <h4>- Martha Mariam North Eastern Diocese Bible Quiz Winners 2017</h4>
-
-
-
-
-  <!-- Start WOWSlider.com BODY section -->
-  <div id="wowslider-container3">
-  <div class="ws_images"><ul>
-  		<li><img src="data3/images/img_2790.jpg" alt="Sunday School Area Competition: Group Song Winners: Aleena, Andrew, Angelle, Julua" title="Sunday School Area Competition: Group Song Winners: Aleena, Andrew, Angelle, Julua" id="wows3_0"/></li>
-  		<li><a href="http://wowslider.com"><img src="data3/images/img20171015wa0000.jpg" alt="wowslider.com" title="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017" id="wows3_1"/></a></li>
-  		<li><img src="data3/images/img_2823.jpg" alt="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017" title="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017" id="wows3_2"/></li>
-  	</ul></div>
-  	<div class="ws_bullets"><div>
-  		<a href="#" title="Sunday School Area Competition: Group Song Winners: Aleena, Andrew, Angelle, Julua"><span><img src="data3/tooltips/img_2790.jpg" alt="Sunday School Area Competition: Group Song Winners: Aleena, Andrew, Angelle, Julua"/>1</span></a>
-  		<a href="#" title="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017"><span><img src="data3/tooltips/img20171015wa0000.jpg" alt="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017"/>2</span></a>
-  		<a href="#" title="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017"><span><img src="data3/tooltips/img_2823.jpg" alt="Martha Mariam Samajam: North East American Diocese Bible Quiz Competition Winners 2017"/>3</span></a>
-  	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wow slider</a> by WOWSlider.com v8.7.1m</div>
-  <div class="ws_shadow"></div>
-  </div>
-  <script type="text/javascript" src="engine3/wowslider.js"></script>
-  <script type="text/javascript" src="engine3/script.js"></script>
-  <!-- End WOWSlider.com BODY section -->
-
-</div>
 
 
 
