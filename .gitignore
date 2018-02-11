@@ -19,3 +19,5 @@ war/ststephensbergenfield/ststephensbergenfield.nocache.js
 .project
 
 .classpath
+
+*.class
